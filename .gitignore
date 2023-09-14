@@ -1,3 +1,6 @@
+node_modules/
+#para ignorar o node_modules
+
 # Logs
 logs
 *.log
